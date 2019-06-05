@@ -1,5 +1,6 @@
-package com.example.demo.entity.secondary.secondary;
+package com.example.demo.entity.secondary;
 
+import com.example.demo.entity.secondary.UserEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 /****************************************************************************
